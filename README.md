@@ -7,14 +7,15 @@
 
  
 <h2>Certifications:</h2>
-
 <ul>
-CompTIA A+, Network+, Linux+
-Cisco Certified Network Associate(CCNA)
-Cisco Certified Network Associate Security(CCNA:Security)
-Google Cybersecurity Professional Certification
-TCM Security:The Definitive GRC Analyst Master Class 
-TCM Security:The Practical Ethical Hacking:The Complete Course
+  <li>CompTIA A+</li>
+  <li>CompTIA Network+</li>
+  <li>CompTIA Linux+</li>
+  <li>Cisco Certified Network Associate (CCNA)</li>
+  <li>Cisco Certified Network Associate Security (CCNA: Security)</li>
+  <li>Google Cybersecurity Professional Certification</li>
+  <li>TCM Security: The Definitive GRC Analyst Master Class</li>
+  <li>TCM Security: The Practical Ethical Hacking: The Complete Course</li>
 </ul>
 
 
