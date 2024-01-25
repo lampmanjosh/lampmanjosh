@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh Lampman! <br/><a href="https://github.com/lampmanjosh1">Network Engineer</a>, <a href="https://www.linkedin.com/in/lampmanjosh/">Cyber Security Specialist</a>,
+<h1>Hi, I'm Josh Lampman! <br/><a href="https://github.com/lampmanjosh1">Network Engineer</a>, <a href="https://www.linkedin.com/in/lampmanjosh/">Cyber Security Specialist</a>
 
 <h2>👨‍💻 Projects:</h2>
 
