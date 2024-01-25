@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh Lampman! <br/><a href="https://github.com/lampmanjosh1">Network Engineer</a>, <a href="https://www.linkedin.com/in/lampmanjosh/">Cyber Security Specialist</a>, <a href="https://www.youtube.com/c/lampmanjosh">Writer</a></h1>
+<h1>Hi, I'm Josh Lampman! <br/><a href="https://github.com/lampmanjosh1">Network Engineer</a>, <a href="https://www.linkedin.com/in/lampmanjosh/">Cyber Security Specialist</a>,
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -11,11 +11,9 @@
   <li>CompTIA A+</li>
   <li>CompTIA Network+</li>
   <li>CompTIA Linux+</li>
+  <li>CompTIA Security+</li>
   <li>Cisco Certified Network Associate (CCNA)</li>
   <li>Cisco Certified Network Associate Security (CCNA: Security)</li>
-  <li>Google Cybersecurity Professional Certification</li>
-  <li>TCM Security: The Definitive GRC Analyst Master Class</li>
-  <li>TCM Security: The Practical Ethical Hacking: The Complete Course</li>
 </ul>
 
 
