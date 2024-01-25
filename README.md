@@ -19,7 +19,7 @@
 
 <h2>Writeup's</h2>
 
- ### [Writeup](https://docs.google.com/document/d/1YQcv55uhHKgtFVBzbxqmB7QycIdkWREL/edit?usp=sharing&ouid=104585316930561277646&rtpof=true&sd=true)
+ ### [Active Directory Lab](https://docs.google.com/document/d/1YQcv55uhHKgtFVBzbxqmB7QycIdkWREL/edit?usp=sharing&ouid=104585316930561277646&rtpof=true&sd=true)
 
 <h2> 🤳 Connect with me:</h2>
 
