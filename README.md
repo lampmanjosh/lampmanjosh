@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Active Directory Lab Setup with pfSense on ESXi Including Two Windows 10 Hosts.</b>
-  - (https://github.com/lampmanjosh1/project1)
+  - (https://github.com/lampmanjosh/ActiveDirectoryLab)
 
  
 <h2>Certifications:</h2>
