@@ -19,7 +19,7 @@
 
 <h2>Writeup's</h2>
 
-- (https://docs.google.com/document/d/1YQcv55uhHKgtFVBzbxqmB7QycIdkWREL/edit?usp=sharing&ouid=104585316930561277646&rtpof=true&sd=true)
+ ### [Writeup](https://docs.google.com/document/d/1YQcv55uhHKgtFVBzbxqmB7QycIdkWREL/edit?usp=sharing&ouid=104585316930561277646&rtpof=true&sd=true)
 
 <h2> 🤳 Connect with me:</h2>
 
